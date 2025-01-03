@@ -1,0 +1,15 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+
+.document{
+    color: red;
+}
+
+#btn{
+    background-color: pink;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
